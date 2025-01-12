@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Created a Food Ordering App with Recommendations for each and every food item in the menu. The recommendations were found using Cosine Similarity of each menu item. Used Firebase as database and for authentication.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
